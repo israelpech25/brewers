@@ -1,2 +1,0 @@
-# brewers
-Innovator challenge project
