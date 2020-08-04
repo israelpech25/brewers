@@ -1,4 +1,4 @@
-COLUMN TABLE "data.db.tables::cerveza"(
+COLUMN TABLE "data.db.tables::Cerveza"(
 	"ID_CERVEZA" CHAR(10) CS_FIXEDSTRING NOT NULL,
 	"Nombre_Tipo" CHAR(10) CS_FIXEDSTRING NOT NULL,
 	PRIMARY KEY (

@@ -1,0 +1,7 @@
+COLUMN TABLE "data.db.tables::Ingredientes"(
+	"ID_INGREDIENTE" CHAR(10) CS_FIXEDSTRING NOT NULL,
+	"Nombre_Ingrediente" CHAR(10) CS_FIXEDSTRING NOT NULL,
+	PRIMARY KEY (
+		"ID_INGREDIENTE"
+	)
+)
